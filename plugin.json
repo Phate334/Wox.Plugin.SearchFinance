@@ -1,0 +1,12 @@
+{
+    "ID": "d3de139e-599d-5276-a36f-8612a1a2210d",
+    "ActionKeyword": "fu",
+    "Name": "SearchFugle",
+    "Description": "Search stock code with Fugle website",
+    "Author": "phate334",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "",
+    "IcoPath": "Images\\up.png",
+    "ExecuteFileName": "main.py"
+}
